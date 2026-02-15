@@ -1,0 +1,7 @@
+[submodule "external/imgui"]
+	path = external/imgui
+	url = https://github.com/ocornut/imgui.git
+	branch = docking
+[submodule "tools/dumper7"]
+	path = tools/dumper7
+	url = https://github.com/Encryqed/Dumper-7.git
