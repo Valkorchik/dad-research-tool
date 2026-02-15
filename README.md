@@ -10,18 +10,9 @@ Reads game state from memory (actors, positions, health, items) and renders an i
 
 ## Gallery
 
-<!-- Add your screenshots here. Place images in a docs/screenshots/ folder and reference them: -->
-
-| ESP Overlay | Menu / Settings |
-|:-----------:|:---------------:|
-| ![ESP Overview](docs/screenshots/esp_overview.png) | ![Menu](docs/screenshots/menu.png) |
-
-| Radar Minimap | Loot Filter |
-|:-------------:|:-----------:|
-| ![Radar](docs/screenshots/radar.png) | ![Loot](docs/screenshots/loot_filter.png) |
-
-<!-- Single wide screenshot: -->
-<!-- ![Full Overlay](docs/screenshots/full_overlay.png) -->
+<p align="center">
+  <img src="docs/screenshots/overview.jpg" alt="ESP Overlay — menu, NPC boxes, radar, health bars, distance labels" width="900">
+</p>
 
 ---
 
